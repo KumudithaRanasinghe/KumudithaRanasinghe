@@ -80,7 +80,7 @@
 
 <h3 align="center">Connect With Me:</h3>
 <p align="center">
-<a href="linkedin.com/in/ravindu-ranasinghe-078a23254" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/ravindu-ranasinghe-078a23254/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="linkedin" height="50" width="50" /></a>
 <a href="https://www.facebook.com/kumuditha.ranasinhge.5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="50" width="50" /></a>
 </p>
 
