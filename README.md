@@ -12,9 +12,9 @@
 <td width="50%" align="left">
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **DEA in JAVA**
 
-- 🔭 I’m currently working on my **Python Course**
+- 🔭 I’m currently working on my **JAVA Course**
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM**
 
