@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 🔭 I’m currently working on my **Duothan 4.0**
+- 🔭 I’m currently working on **Duothan 4.0**
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM Green University**
 
