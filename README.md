@@ -12,13 +12,13 @@
 <td width="50%" align="left">
 
 
-- 🌱 I’m currently learning **DEA in JAVA**
+- 🌱 I’m currently learning **Next.js**
 
-- 🔭 I’m currently working on my **JAVA Course**
+- 🔭 I’m currently working on my **Duothan 4.0**
 
-- 🧑‍🎓 I’m an Undergraduate at **NSBM**
+- 🧑‍🎓 I’m an Undergraduate at **NSBM Green University**
 
-- 🤔 My interest lies in **Front end development**
+- 🤔 My interest lies in **Frontend development**
 
 - ⚡ Fun fact **Call me as Shadow**
 </td>
