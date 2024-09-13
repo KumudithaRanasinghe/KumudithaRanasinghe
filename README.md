@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on **NSBM IEEE Day 24**
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM Green University**
 
