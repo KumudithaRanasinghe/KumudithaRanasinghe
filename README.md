@@ -12,13 +12,13 @@
 <td width="50%" align="left">
 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **.NET**
 
-- 🔭 I’m currently working on **NSBM IEEE Day 24**
+- 🔭 I’m currently working on **SMS Model**
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM Green University**
 
-- 🤔 My interest lies in **Frontend development**
+- 🤔 My interest lies in **Backend development**
 
 - ⚡ Fun fact **Call me as Shadow**
 </td>
