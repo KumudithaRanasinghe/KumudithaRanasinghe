@@ -12,9 +12,9 @@
 <td width="50%" align="left">
 
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Flutter**
 
-- 🔭 I’m currently working on **SMS Model**
+- 🔭 I’m currently working on **Mobile Application Development**
 
 - 🧑‍🎓 I’m an Undergraduate at **NSBM Green University**
 
