@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Mobile Application Development**
 
-- 🧑‍🎓 I’m an **Webmaster** of **IEEE NSBM Student Branch**
+- 🧑‍🎓 I’m the **Webmaster** of **IEEE NSBM Student Branch**
 
 - 🤔 My interest lies in **Backend development**
 
