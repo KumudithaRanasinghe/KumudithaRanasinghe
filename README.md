@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **Duothan 5.0**
 
-- 🧑‍🎓 I’m the **Webmaster** of **IEEE NSBM Student Branch**
+- 🧑‍🎓 I’m the **Webmaster** of **NSBM IEEE Student Branch**
 
 - 🤔 My interest lies in **Backend development**
 
