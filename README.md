@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **.NET**
 
-- 🔭 I’m currently working on **Prime Enginnering Lanka(Pvt) Ltd**
+- 🔭 I’m currently working on **Prime Engineering Lanka(Pvt) Ltd**
 
 - 🧑‍🎓 I’m the **Webmaster** of **NSBM IEEE Student Branch**
 
