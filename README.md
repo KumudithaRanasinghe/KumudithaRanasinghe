@@ -12,9 +12,9 @@
 <td width="50%" align="left">
 
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **.NET**
 
-- 🔭 I’m currently working on **Duothan 5.0**
+- 🔭 I’m currently working on **Prime Enginnering Lanka(Pvt) Ltd**
 
 - 🧑‍🎓 I’m the **Webmaster** of **NSBM IEEE Student Branch**
 
