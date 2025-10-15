@@ -80,6 +80,14 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" alt="typescript" width="50" height="50"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CS.svg" alt="CS" width="50" height="50"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/DotNet.svg" alt=".net" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" alt="spring" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="vscode" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/VisualStudio-Dark.svg" alt="vs" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Idea-Dark.svg" alt="idea" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vercel-Dark.svg" alt="vercel" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Dark.svg" alt="git action" width="50" height="50"/> </a>
+
     
 </p>
 
