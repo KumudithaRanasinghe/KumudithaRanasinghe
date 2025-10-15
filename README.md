@@ -12,7 +12,7 @@
 <td width="50%" align="left">
 
 
-- 🌱 I’m currently learning **.NET**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 🔭 I’m currently working on **Prime Engineering Lanka**
 
