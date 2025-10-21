@@ -57,6 +57,8 @@
 </div>
 <!--- trophy (start) -->
 
+
+
 ---
 
 </p>        
@@ -88,7 +90,10 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Dark.svg" alt="git action" width="50" height="50"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="50" height="50"/> </a>
 
-    
+<h3 align="center">Badges:</h3>
+
+[![An image of @kumuditharanasinghe's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kumuditharanasinghe)](https://holopin.io/@kumuditharanasinghe)
+
 </p>
 
 ---
