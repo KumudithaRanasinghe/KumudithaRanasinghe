@@ -91,7 +91,8 @@
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/GithubActions-Dark.svg" alt="git action" width="50" height="50"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Docker.svg" alt="docker" width="50" height="50"/> </a>
 <a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Linux-Dark.svg" alt="linux" width="50" height="50"/> </a>
-
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/FastAPI.svg" alt="linux" width="50" height="50"/> </a>
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PyTorch-Dark.svg" alt="linux" width="50" height="50"/> </a>
     
 ---
 
